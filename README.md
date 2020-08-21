@@ -7,7 +7,7 @@ i just found my old laptop and hackintosh it of course xD
 -   Processor: Intel Core Intel Core i3 2350M
 -   GPU: Intel HD 3000
 -   RAM: 2 GB DDR3
--   Wifi Card: Atheros AR9285
+-   Wifi Card: Atheros AR9285, you can see fixing method here [a relative link](./AR9285_Fix.md)
 -   LAN Card: Realtek RTL8111
 
 ## BIOS Configuration
